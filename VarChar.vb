@@ -1,6 +1,6 @@
 Public Class VarChar
 
-    ' This class will simply wrap a string in order to enforce length limits
+    ' This class will simply wrap a string in order to enforce length limitssss
     Private m_strValue As String
     Private m_iLengthLimit As Integer
 
